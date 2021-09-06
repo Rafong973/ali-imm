@@ -1,0 +1,16 @@
+{
+  "name": "imm",
+  "version": "1.0.0",
+  "description": "阿里云-智能媒体管理",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.10",
+    "md5js": "^1.0.7",
+    "open": "^8.2.1"
+  }
+}
